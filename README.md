@@ -1,5 +1,7 @@
 # back
 
+### Utilizar python 3.7.9 ou superior
+
 ## Instalar Dependencias
 ```
 pip install -r requirements.txt
