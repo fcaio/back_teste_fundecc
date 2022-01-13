@@ -9,6 +9,10 @@ pip install -r requirements.txt
 ```
 python manage.py migrate
 ```
+### Gerar arquivos estáticos
+```
+python manage.py collectstatic
+```
 
 ### Iniciar aplicação em modo desenvolvimento
 ```
